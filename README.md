@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Microservices,Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [update soon](update soon)
+- 👨‍💻 All of my projects are available at [here]([update soon](https://ashik-portfolio23402.netlify.app/))
 
 - 💬 Ask me about **Spring,Spring boot, MERN**
 
